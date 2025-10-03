@@ -1,2 +1,2 @@
 # rainbow
-git education
+study git
